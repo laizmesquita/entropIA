@@ -1,0 +1,106 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "João Pereira",
+      "email": "joao.pereira@example.com",
+      "senha": "senha001"
+    },
+    {
+      "id": 2,
+      "nome": "Maria Alberta",
+      "email": "maria.alberta@example.com",
+      "senha": "senha002"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "titulo": "Vistoria XYZ",
+      "dataCadastro": "2024-06-10",
+      "empresa": "Coelba",
+      "agente": "Daiane Barbosa",
+      "descricao": "Fazer o combinado no relatório XYZ",
+      "status": "Urgente",
+      "complexidade": "alta",
+      "depreciacao": 2025,
+      "qualidade": "boa",
+      "sustentabilidade": "sim"
+    },
+    {
+      "id": 2,
+      "titulo": "Atualizar sistema X",
+      "dataCadastro": "2024-06-18",
+      "empresa": "Energia Tech",
+      "agente": "Bruno Matias",
+      "descricao": "Vistoria sistema XYZ",
+      "status": "Urgente",
+      "depreciacao": 2026,
+      "qualidade": "excelente",
+      "sustentabilidade": "não"    },
+    {
+      "id": 3,
+      "titulo": "Manutenção Equipamento Y",
+      "dataCadastro": "2024-06-15",
+      "empresa": "Light Solutions",
+      "agente": "Celine Santos",
+      "descricao": "Elaborar em conjunto com a COmpany",
+      "status": "Urgente",
+      "complexidade": "alta",
+      "depreciacao": 2025,
+      "qualidade": "boa",
+      "sustentabilidade": "sim"
+    },
+    {
+      "id": 4,
+      "titulo": "Titulo da Tarefa",
+      "dataCadastro": "2024-06-15",
+      "empresa": "Project Master",
+      "agente": "Nimbus Reis",
+      "descricao": "Vistoria sistema XYZ",
+      "status": "A começar",
+      "complexidade": "baixa",
+      "depreciacao": 2027,
+      "qualidade": "ruim",
+      "sustentabilidade": "sim"
+    },
+    {
+      "id": 5,
+      "titulo": "Titulo da Tarefa",
+      "dataCadastro": "2024-06-15",
+      "empresa": "Light Solutions",
+      "agente": "Hugo Castelhane",
+      "descricao": "Vistoria sistema XYZ",
+      "status": "A começar",
+      "depreciacao": 2026,
+      "qualidade": "excelente",
+      "sustentabilidade": "não"
+    },
+    {
+      "id": 6,
+      "titulo": "Titulo da Tarefa",
+      "dataCadastro": "2024-06-15",
+      "empresa": "Energia Tech",
+      "agente": "Hiara Assis",
+      "descricao": "Vistoria sistema XYZ",
+      "status": "Urgente",
+      "complexidade": "baixa",
+      "depreciacao": 2027,
+      "qualidade": "ruim",
+      "sustentabilidade": "sim"
+    },
+    {
+      "id": 7,
+      "titulo": "Titulo da Tarefa",
+      "dataCadastro": "2024-06-15",
+      "empresa": "Project Master",
+      "agente": "Daiane Janesis",
+      "descricao": "Vistoria sistema XYZ",
+      "status": "A começar",
+      "complexidade": "baixa",
+      "depreciacao": 2024,
+      "qualidade": "boa",
+      "sustentabilidade": "não"
+    }
+  ]
+}
